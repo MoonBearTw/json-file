@@ -10,10 +10,6 @@
                 "en": "Yamanda",
                 "zh": "亞曼達"
             },
-            "brandKey": {
-                "en": "Yamanda",
-                "zh": "亞曼達"
-            },
             "category": {
                 "en": "Coffee Table",
                 "zh": "咖啡桌"
@@ -59,12 +55,8 @@
                 "zh": "時尚辦公桌"
             },
             "brand": {
-                "en": "Victor",
-                "zh": "維克多"
-            },
-            "brandKey": {
-                "en": "Victor",
-                "zh": "維克多"
+                "en": "LiHarper",
+                "zh": "利哈珀"
             },
             "category": {
                 "en": "Office Desk",
@@ -112,10 +104,6 @@
                 "zh": "現代皮革沙發"
             },
             "brand": {
-                "en": "Yamanda",
-                "zh": "亞曼達"
-            },
-            "brandKey": {
                 "en": "Yamanda",
                 "zh": "亞曼達"
             },
@@ -168,10 +156,6 @@
                 "en": "LiHarper",
                 "zh": "利哈珀"
             },
-            "brandKey": {
-                "en": "LiHarper",
-                "zh": "利哈珀"
-            },
             "category": {
                 "en": "Bookshelf",
                 "zh": "書架"
@@ -217,12 +201,8 @@
                 "zh": "優雅玻璃餐桌"
             },
             "brand": {
-                "en": "Keylou",
-                "zh": "奇露"
-            },
-            "brandKey": {
-                "en": "Keylou",
-                "zh": "奇露"
+                "en": "LiHarper",
+                "zh": "利哈珀"
             },
             "category": {
                 "en": "Dining Table",
@@ -269,10 +249,6 @@
                 "zh": "當代衣櫃"
             },
             "brand": {
-                "en": "Drett",
-                "zh": "德瑞特"
-            },
-            "brandKey": {
                 "en": "Drett",
                 "zh": "德瑞特"
             },
@@ -325,10 +301,6 @@
                 "en": "Evya",
                 "zh": "埃維亞"
             },
-            "brandKey": {
-                "en": "Evya",
-                "zh": "埃維亞"
-            },
             "category": {
                 "en": "Shoe Cabinet",
                 "zh": "鞋櫃"
@@ -374,12 +346,8 @@
                 "zh": "現代電視櫃"
             },
             "brand": {
-                "en": "Bellachi",
-                "zh": "貝拉奇"
-            },
-            "brandKey": {
-                "en": "Bellachi",
-                "zh": "貝拉奇"
+                "en": "Yamanda",
+                "zh": "亞曼達"
             },
             "category": {
                 "en": "TV Cabinet",
@@ -427,12 +395,8 @@
                 "zh": "復古梳妝台"
             },
             "brand": {
-                "en": "Santorini",
-                "zh": "聖托里尼"
-            },
-            "brandKey": {
-                "en": "Santorini",
-                "zh": "聖托里尼"
+                "en": "Drett",
+                "zh": "德瑞特"
             },
             "category": {
                 "en": "Vanity Table",
@@ -481,10 +445,6 @@
                 "zh": "時尚電腦桌"
             },
             "brand": {
-                "en": "Evya",
-                "zh": "埃維亞"
-            },
-            "brandKey": {
                 "en": "Evya",
                 "zh": "埃維亞"
             },
