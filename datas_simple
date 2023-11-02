@@ -1,0 +1,532 @@
+{
+    "furnitures": [
+        {
+            "id": 1,
+            "name": {
+                "en": "Minimalist Coffee Table",
+                "zh": "極簡風咖啡桌"
+            },
+            "brand": {
+                "en": "Yamanda",
+                "zh": "亞曼達"
+            },
+            "brandKey": {
+                "en": "Yamanda",
+                "zh": "亞曼達"
+            },
+            "category": {
+                "en": "Coffee Table",
+                "zh": "咖啡桌"
+            },
+            "colors": [
+                "淺木色"
+            ],
+            "materials": [
+                "實木"
+            ],
+            "features": [
+                "簡約設計",
+                "堅固耐用",
+                "易搭配"
+            ],
+            "size": "長: 100cm, 寬: 60cm, 高: 45cm",
+            "price": "$250",
+            "discountedPrice": "$220",
+            "description": [
+                "這款極簡風咖啡桌以高品質實木打造，簡約耐用。",
+                "提供淺木色選擇，為客廳帶來溫暖氛圍。",
+                "簡約設計，與各種家居風格完美搭配。",
+                "堅固耐用，為您提供長久的使用享受。"
+            ],
+            "cover": "https://example.com/minimalist_coffee_table_cover.png",
+            "photos": [
+                "https://example.com/minimalist_coffee_table_photo1.png",
+                "https://example.com/minimalist_coffee_table_photo2.png",
+                "https://example.com/minimalist_coffee_table_photo3.png",
+                "https://example.com/minimalist_coffee_table_photo4.png",
+                "https://example.com/minimalist_coffee_table_photo5.png"
+            ],
+            "includeds": [
+                "桌腳",
+                "桌面"
+            ],
+            "hot": false
+        },
+        {
+            "id": 2,
+            "name": {
+                "en": "Sleek Office Desk",
+                "zh": "時尚辦公桌"
+            },
+            "brand": {
+                "en": "Victor",
+                "zh": "維克多"
+            },
+            "brandKey": {
+                "en": "Victor",
+                "zh": "維克多"
+            },
+            "category": {
+                "en": "Office Desk",
+                "zh": "辦公桌"
+            },
+            "colors": [
+                "黑色"
+            ],
+            "materials": [
+                "金屬",
+                "玻璃"
+            ],
+            "features": [
+                "現代設計",
+                "寬敞桌面",
+                "耐用結構"
+            ],
+            "size": "長: 120cm, 寬: 70cm, 高: 75cm",
+            "price": "$300",
+            "discountedPrice": "$280",
+            "description": [
+                "這款時尚辦公桌以高品質金屬和玻璃製成，現代感十足。",
+                "提供黑色選擇，為辦公空間帶來簡約氛圍。",
+                "寬敞桌面，提供舒適的工作環境。",
+                "耐用結構，確保長時間的使用壽命。"
+            ],
+            "cover": "https://example.com/sleek_office_desk_cover.png",
+            "photos": [
+                "https://example.com/sleek_office_desk_photo1.png",
+                "https://example.com/sleek_office_desk_photo2.png",
+                "https://example.com/sleek_office_desk_photo3.png",
+                "https://example.com/sleek_office_desk_photo4.png",
+                "https://example.com/sleek_office_desk_photo5.png"
+            ],
+            "includeds": [
+                "桌腳",
+                "桌面"
+            ],
+            "hot": true
+        },
+        {
+            "id": 3,
+            "name": {
+                "en": "Modern Leather Sofa",
+                "zh": "現代皮革沙發"
+            },
+            "brand": {
+                "en": "Yamanda",
+                "zh": "亞曼達"
+            },
+            "brandKey": {
+                "en": "Yamanda",
+                "zh": "亞曼達"
+            },
+            "category": {
+                "en": "Sofa",
+                "zh": "沙發"
+            },
+            "colors": [
+                "黑色",
+                "白色"
+            ],
+            "materials": [
+                "皮革"
+            ],
+            "features": [
+                "時尚現代設計",
+                "舒適柔軟",
+                "堅固耐用"
+            ],
+            "size": "長: 180cm, 寬: 85cm, 高: 75cm",
+            "price": "$800",
+            "discountedPrice": "$750",
+            "description": [
+                "這款現代皮革沙發具有時尚現代的設計，為您的客廳增添氛圍。",
+                "提供黑色和白色選擇，適應各種家居風格。",
+                "舒適柔軟的坐感，讓您放鬆身心。",
+                "堅固耐用的結構，確保長時間的使用壽命。"
+            ],
+            "cover": "https://example.com/modern_leather_sofa_cover.png",
+            "photos": [
+                "https://example.com/modern_leather_sofa_photo1.png",
+                "https://example.com/modern_leather_sofa_photo2.png",
+                "https://example.com/modern_leather_sofa_photo3.png",
+                "https://example.com/modern_leather_sofa_photo4.png",
+                "https://example.com/modern_leather_sofa_photo5.png"
+            ],
+            "includeds": [
+                "沙發座墊",
+                "扶手"
+            ],
+            "hot": true
+        },
+        {
+            "id": 4,
+            "name": {
+                "en": "Classic Wooden Bookshelf",
+                "zh": "經典木製書架"
+            },
+            "brand": {
+                "en": "LiHarper",
+                "zh": "利哈珀"
+            },
+            "brandKey": {
+                "en": "LiHarper",
+                "zh": "利哈珀"
+            },
+            "category": {
+                "en": "Bookshelf",
+                "zh": "書架"
+            },
+            "colors": [
+                "橡木色"
+            ],
+            "materials": [
+                "實木"
+            ],
+            "features": [
+                "經典設計",
+                "堅固耐用",
+                "多層儲物"
+            ],
+            "size": "長: 120cm, 寬: 30cm, 高: 180cm",
+            "price": "$350",
+            "discountedPrice": "$300",
+            "description": [
+                "這款經典木製書架以高品質實木製成，展現經典氛圍。",
+                "提供橡木色選擇，為您的家居帶來自然美感。",
+                "堅固耐用的結構，讓您放心收納書籍和物品。",
+                "多層儲物設計，讓您更好地整理物品。"
+            ],
+            "cover": "https://example.com/classic_wooden_bookshelf_cover.png",
+            "photos": [
+                "https://example.com/classic_wooden_bookshelf_photo1.png",
+                "https://example.com/classic_wooden_bookshelf_photo2.png",
+                "https://example.com/classic_wooden_bookshelf_photo3.png",
+                "https://example.com/classic_wooden_bookshelf_photo4.png",
+                "https://example.com/classic_wooden_bookshelf_photo5.png"
+            ],
+            "includeds": [
+                "書架板",
+                "支架"
+            ],
+            "hot": false
+        },
+        {
+            "id": 5,
+            "name": {
+                "en": "Elegant Glass Dining Table",
+                "zh": "優雅玻璃餐桌"
+            },
+            "brand": {
+                "en": "Keylou",
+                "zh": "奇露"
+            },
+            "brandKey": {
+                "en": "Keylou",
+                "zh": "奇露"
+            },
+            "category": {
+                "en": "Dining Table",
+                "zh": "餐桌"
+            },
+            "colors": [
+                "透明"
+            ],
+            "materials": [
+                "玻璃"
+            ],
+            "features": [
+                "優雅設計",
+                "玻璃桌面",
+                "金屬支架"
+            ],
+            "size": "長: 150cm, 寬: 90cm, 高: 75cm",
+            "price": "$550",
+            "discountedPrice": "$500",
+            "description": [
+                "這款優雅玻璃餐桌具有簡約優雅的設計，為用餐環境增色。",
+                "透明玻璃桌面，展現現代感和空間感。",
+                "金屬支架，穩固耐用。",
+                "適合家庭聚餐和聚會活動。"
+            ],
+            "cover": "https://example.com/elegant_glass_dining_table_cover.png",
+            "photos": [
+                "https://example.com/elegant_glass_dining_table_photo1.png",
+                "https://example.com/elegant_glass_dining_table_photo2.png",
+                "https://example.com/elegant_glass_dining_table_photo3.png",
+                "https://example.com/elegant_glass_dining_table_photo4.png",
+                "https://example.com/elegant_glass_dining_table_photo5.png"
+            ],
+            "includeds": [
+                "餐桌面",
+                "支架"
+            ],
+            "hot": true
+        },
+        {
+            "id": 6,
+            "name": {
+                "en": "Contemporary Wardrobe",
+                "zh": "當代衣櫃"
+            },
+            "brand": {
+                "en": "Drett",
+                "zh": "德瑞特"
+            },
+            "brandKey": {
+                "en": "Drett",
+                "zh": "德瑞特"
+            },
+            "category": {
+                "en": "Wardrobe",
+                "zh": "衣櫃"
+            },
+            "colors": [
+                "深木色"
+            ],
+            "materials": [
+                "木製",
+                "鋼材"
+            ],
+            "features": [
+                "現代設計",
+                "多層收納",
+                "鏡面門"
+            ],
+            "size": "長: 150cm, 寬: 60cm, 高: 200cm",
+            "price": "$700",
+            "discountedPrice": "$650",
+            "description": [
+                "這款當代衣櫃融合了現代感和實用性，為您的臥室增色。",
+                "深木色設計，為空間帶來溫暖感。",
+                "多層收納，滿足不同物品的收納需求。",
+                "鏡面門設計，方便整理和打扮。"
+            ],
+            "cover": "https://example.com/contemporary_wardrobe_cover.png",
+            "photos": [
+                "https://example.com/contemporary_wardrobe_photo1.png",
+                "https://example.com/contemporary_wardrobe_photo2.png",
+                "https://example.com/contemporary_wardrobe_photo3.png",
+                "https://example.com/contemporary_wardrobe_photo4.png",
+                "https://example.com/contemporary_wardrobe_photo5.png"
+            ],
+            "includeds": [
+                "衣櫃主體",
+                "鏡面門"
+            ],
+            "hot": false
+        },
+        {
+            "id": 7,
+            "name": {
+                "en": "Rustic Shoe Cabinet",
+                "zh": "鄉村風鞋櫃"
+            },
+            "brand": {
+                "en": "Evya",
+                "zh": "埃維亞"
+            },
+            "brandKey": {
+                "en": "Evya",
+                "zh": "埃維亞"
+            },
+            "category": {
+                "en": "Shoe Cabinet",
+                "zh": "鞋櫃"
+            },
+            "colors": [
+                "咖啡色"
+            ],
+            "materials": [
+                "實木"
+            ],
+            "features": [
+                "鄉村風格",
+                "多層收納",
+                "環保材料"
+            ],
+            "size": "長: 80cm, 寬: 35cm, 高: 100cm",
+            "price": "$300",
+            "discountedPrice": "$280",
+            "description": [
+                "這款鄉村風鞋櫃以高品質實木打造，為您的門廳提供美觀收納解決方案。",
+                "深咖啡色設計，營造溫馨鄉村氛圍。",
+                "多層收納，讓您整理鞋子和雜物。",
+                "採用環保材料，符合環保理念。"
+            ],
+            "cover": "https://example.com/rustic_shoe_cabinet_cover.png",
+            "photos": [
+                "https://example.com/rustic_shoe_cabinet_photo1.png",
+                "https://example.com/rustic_shoe_cabinet_photo2.png",
+                "https://example.com/rustic_shoe_cabinet_photo3.png",
+                "https://example.com/rustic_shoe_cabinet_photo4.png",
+                "https://example.com/rustic_shoe_cabinet_photo5.png"
+            ],
+            "includeds": [
+                "鞋櫃主體",
+                "鞋盒隔板"
+            ],
+            "hot": true
+        },
+        {
+            "id": 8,
+            "name": {
+                "en": "Modern TV Stand",
+                "zh": "現代電視櫃"
+            },
+            "brand": {
+                "en": "Bellachi",
+                "zh": "貝拉奇"
+            },
+            "brandKey": {
+                "en": "Bellachi",
+                "zh": "貝拉奇"
+            },
+            "category": {
+                "en": "TV Cabinet",
+                "zh": "電視櫃"
+            },
+            "colors": [
+                "深木色"
+            ],
+            "materials": [
+                "實木",
+                "玻璃"
+            ],
+            "features": [
+                "現代設計",
+                "多功能收納",
+                "簡約風格"
+            ],
+            "size": "長: 180cm, 寬: 40cm, 高: 45cm",
+            "price": "$400",
+            "discountedPrice": "$360",
+            "description": [
+                "這款現代電視櫃融合了實木和玻璃材質，呈現出獨特的風格。",
+                "深木色設計，營造現代感。",
+                "多功能收納設計，滿足不同物品的收納需求。",
+                "簡約風格，適用於各種家居風格。"
+            ],
+            "cover": "https://example.com/modern_tv_stand_cover.png",
+            "photos": [
+                "https://example.com/modern_tv_stand_photo1.png",
+                "https://example.com/modern_tv_stand_photo2.png",
+                "https://example.com/modern_tv_stand_photo3.png",
+                "https://example.com/modern_tv_stand_photo4.png",
+                "https://example.com/modern_tv_stand_photo5.png"
+            ],
+            "includeds": [
+                "電視櫃主體",
+                "玻璃板"
+            ],
+            "hot": false
+        },
+        {
+            "id": 9,
+            "name": {
+                "en": "Vintage Vanity Table",
+                "zh": "復古梳妝台"
+            },
+            "brand": {
+                "en": "Santorini",
+                "zh": "聖托里尼"
+            },
+            "brandKey": {
+                "en": "Santorini",
+                "zh": "聖托里尼"
+            },
+            "category": {
+                "en": "Vanity Table",
+                "zh": "梳妝台"
+            },
+            "colors": [
+                "白色",
+                "粉紅色"
+            ],
+            "materials": [
+                "實木",
+                "鏡子"
+            ],
+            "features": [
+                "復古設計",
+                "多功能收納",
+                "可旋轉鏡子"
+            ],
+            "size": "長: 100cm, 寬: 50cm, 高: 140cm",
+            "price": "$450",
+            "discountedPrice": "$420",
+            "description": [
+                "這款復古梳妝台經典優雅，為您的臥室增添迷人氛圍。",
+                "提供白色和粉紅色選擇，為空間增色。",
+                "多功能收納設計，方便整理化妝品和飾品。",
+                "可旋轉鏡子，滿足不同角度的妝容需求。"
+            ],
+            "cover": "https://example.com/vintage_vanity_table_cover.png",
+            "photos": [
+                "https://example.com/vintage_vanity_table_photo1.png",
+                "https://example.com/vintage_vanity_table_photo2.png",
+                "https://example.com/vintage_vanity_table_photo3.png",
+                "https://example.com/vintage_vanity_table_photo4.png",
+                "https://example.com/vintage_vanity_table_photo5.png"
+            ],
+            "includeds": [
+                "梳妝台主體",
+                "旋轉鏡子"
+            ],
+            "hot": true
+        },
+        {
+            "id": 10,
+            "name": {
+                "en": "Stylish Computer Desk",
+                "zh": "時尚電腦桌"
+            },
+            "brand": {
+                "en": "Evya",
+                "zh": "埃維亞"
+            },
+            "brandKey": {
+                "en": "Evya",
+                "zh": "埃維亞"
+            },
+            "category": {
+                "en": "Computer Desk",
+                "zh": "電腦桌"
+            },
+            "colors": [
+                "淺木色",
+                "白色"
+            ],
+            "materials": [
+                "木製",
+                "金屬"
+            ],
+            "features": [
+                "時尚設計",
+                "寬敞桌面",
+                "多功能收納"
+            ],
+            "size": "長: 120cm, 寬: 60cm, 高: 75cm",
+            "price": "$350",
+            "discountedPrice": "$320",
+            "description": [
+                "這款時尚電腦桌具有現代感的設計，為您的辦公空間增色。",
+                "提供淺木色和白色選擇，適應不同風格。",
+                "寬敞桌面，提供舒適的工作環境。",
+                "多功能收納設計，方便整理文件和文具。"
+            ],
+            "cover": "https://example.com/stylish_computer_desk_cover.png",
+            "photos": [
+                "https://example.com/stylish_computer_desk_photo1.png",
+                "https://example.com/stylish_computer_desk_photo2.png",
+                "https://example.com/stylish_computer_desk_photo3.png",
+                "https://example.com/stylish_computer_desk_photo4.png",
+                "https://example.com/stylish_computer_desk_photo5.png"
+            ],
+            "includeds": [
+                "桌面",
+                "支架"
+            ],
+            "hot": true
+        }
+    ]
+}
