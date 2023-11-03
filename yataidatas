@@ -18,13 +18,13 @@
             ]
         },
         {
-            "brand": "Drett",
-            "logo":"drett_logo.jpg",
+            "brand": "Direkt",
+            "logo":"direkt_logo.jpg",
             "en": [
-                "The Drett brand stems from a profound understanding of nature and culture. Established in 1998, Drett incorporates unique natural elements into its designs, breathing life into materials like wood, stone, and metal to create a layered and textured living space. Drett's furniture seems to bring the beauty of nature indoors, adding a vibrant touch to the living environment.",
-                "The brand's design philosophy integrates environmental sustainability, emphasizing the selection of materials and eco-friendly production processes, aiming to create a harmonious coexistence within living spaces. Drett's furniture not only possesses unique artistic value but also showcases a deep respect and reverence for nature.",
-                "Each piece of Drett furniture is a masterpiece crafted with meticulous care, presented through exquisite craftsmanship and distinctive design. Whether in texture or form, Drett's furniture exudes a captivating charm, adding a unique personality to living spaces.",
-                "Drett allows the beauty of nature to become a part of the home, bringing tranquility and joy to its inhabitants. It is not just furniture; it is an expression of a lifestyle, infusing more quality and warmth into home living."
+                "The Direkt brand stems from a profound understanding of nature and culture. Established in 1998, Direkt incorporates unique natural elements into its designs, breathing life into materials like wood, stone, and metal to create a layered and textured living space. Direkt's furniture seems to bring the beauty of nature indoors, adding a vibrant touch to the living environment.",
+                "The brand's design philosophy integrates environmental sustainability, emphasizing the selection of materials and eco-friendly production processes, aiming to create a harmonious coexistence within living spaces. Direkt's furniture not only possesses unique artistic value but also showcases a deep respect and reverence for nature.",
+                "Each piece of Direkt furniture is a masterpiece crafted with meticulous care, presented through exquisite craftsmanship and distinctive design. Whether in texture or form, Direkt's furniture exudes a captivating charm, adding a unique personality to living spaces.",
+                "Direkt allows the beauty of nature to become a part of the home, bringing tranquility and joy to its inhabitants. It is not just furniture; it is an expression of a lifestyle, infusing more quality and warmth into home living."
             ],
             "zh": [
                 "德瑞特品牌源自對自然與人文的深刻理解。成立於1998年，德瑞特以獨特的自然元素融入設計，將木、石、金屬等材質賦予生命，營造出富有層次感的家居空間。德瑞特的家具，彷彿是自然之美在室內綻放，為居住環境增色不少。",
@@ -494,11 +494,11 @@
                 "zh": "當代衣櫃"
             },
             "brand": {
-                "en": "Drett",
+                "en": "Direkt",
                 "zh": "德瑞特"
             },
             "brandKey": {
-                "en": "Drett",
+                "en": "Direkt",
                 "zh": "德瑞特"
             },
             "category": {
@@ -528,15 +528,15 @@
             ],
             "cover": "https://example.com/contemporary_wardrobe_cover.png",
             "photos": [
-                "fur_6_drett_00001.png",
-                "fur_6_drett_00002.png",
-                "fur_6_drett_00003.png",
-                "fur_6_drett_00004.png",
-                "fur_6_drett_00005.png",
-                "fur_6_drett_00006.png",
-                "fur_6_drett_00007.png",
-                "fur_6_drett_00008.png",
-                "fur_6_drett_00009.png"
+                "fur_6_direkt_00001.png",
+                "fur_6_direkt_00002.png",
+                "fur_6_direkt_00003.png",
+                "fur_6_direkt_00004.png",
+                "fur_6_direkt_00005.png",
+                "fur_6_direkt_00006.png",
+                "fur_6_direkt_00007.png",
+                "fur_6_direkt_00008.png",
+                "fur_6_direkt_00009.png"
             ],
             "includes": [
                 "衣櫃主體",
@@ -1093,11 +1093,11 @@
                 "zh": "時尚餐桌"
             },
             "brand": {
-                "en": "Drett",
+                "en": "Direkt",
                 "zh": "德瑞特"
             },
             "brandKey": {
-                "en": "Drett",
+                "en": "Direkt",
                 "zh": "德瑞特"
             },
             "category": {
@@ -1128,12 +1128,12 @@
             ],
             "cover": "https://example.com/sleek_dining_table_cover.png",
             "photos": [
-                "fur_17_drett_00001.png",
-                "fur_17_drett_00002.png",
-                "fur_17_drett_00003.png",
-                "fur_17_drett_00004.png",
-                "fur_17_drett_00005.png",
-                "fur_17_drett_00006.png"
+                "fur_17_direkt_00001.png",
+                "fur_17_direkt_00002.png",
+                "fur_17_direkt_00003.png",
+                "fur_17_direkt_00004.png",
+                "fur_17_direkt_00005.png",
+                "fur_17_direkt_00006.png"
             ],
             "includes": [
                 "餐桌主體",
@@ -1870,11 +1870,11 @@
                 "zh": "經典咖啡桌"
             },
             "brand": {
-                "en": "Drett",
+                "en": "Direkt",
                 "zh": "德瑞特"
             },
             "brandKey": {
-                "en": "Drett",
+                "en": "Direkt",
                 "zh": "德瑞特"
             },
             "category": {
@@ -1903,12 +1903,12 @@
             ],
             "cover": "https://example.com/classic_coffee_table_cover.png",
             "photos": [
-                "fur_31_drett_00001.png",
-                "fur_31_drett_00002.png",
-                "fur_31_drett_00003.png",
-                "fur_31_drett_00004.png",
-                "fur_31_drett_00005.png",
-                "fur_31_drett_00006.png"
+                "fur_31_direkt_00001.png",
+                "fur_31_direkt_00002.png",
+                "fur_31_direkt_00003.png",
+                "fur_31_direkt_00004.png",
+                "fur_31_direkt_00005.png",
+                "fur_31_direkt_00006.png"
             ],
             "includes": [
                 "桌腳",
@@ -1923,11 +1923,11 @@
                 "zh": "舒適雙人沙發"
             },
             "brand": {
-                "en": "Drett",
+                "en": "Direkt",
                 "zh": "德瑞特"
             },
             "brandKey": {
-                "en": "Drett",
+                "en": "Direkt",
                 "zh": "德瑞特"
             },
             "category": {
@@ -1957,13 +1957,13 @@
             ],
             "cover": "https://example.com/cozy_loveseat_cover.png",
             "photos": [
-                "fur_32_drett_00001.png",
-                "fur_32_drett_00002.png",
-                "fur_32_drett_00003.png",
-                "fur_32_drett_00004.png",
-                "fur_32_drett_00005.png",
-                "fur_32_drett_00006.png",
-                "fur_32_drett_00007.png"
+                "fur_32_direkt_00001.png",
+                "fur_32_direkt_00002.png",
+                "fur_32_direkt_00003.png",
+                "fur_32_direkt_00004.png",
+                "fur_32_direkt_00005.png",
+                "fur_32_direkt_00006.png",
+                "fur_32_direkt_00007.png"
             ],
             "includes": [
                 "沙發主體",
@@ -1978,11 +1978,11 @@
                 "zh": "復古休閒椅"
             },
             "brand": {
-                "en": "Drett",
+                "en": "Direkt",
                 "zh": "德瑞特"
             },
             "brandKey": {
-                "en": "Drett",
+                "en": "Direkt",
                 "zh": "德瑞特"
             },
             "category": {
@@ -2012,12 +2012,12 @@
             ],
             "cover": "https://example.com/retro_lounge_chair_cover.png",
             "photos": [
-                "fur_33_drett_00001.png",
-                "fur_33_drett_00002.png",
-                "fur_33_drett_00003.png",
-                "fur_33_drett_00004.png",
-                "fur_33_drett_00005.png",
-                "fur_33_drett_00006.png"
+                "fur_33_direkt_00001.png",
+                "fur_33_direkt_00002.png",
+                "fur_33_direkt_00003.png",
+                "fur_33_direkt_00004.png",
+                "fur_33_direkt_00005.png",
+                "fur_33_direkt_00006.png"
             ],
             "includes": [
                 "椅子主體"
@@ -2631,15 +2631,15 @@
         {
             "id": 45,
             "name": {
-                "en": "Drett Shoe Cabinet",
+                "en": "Direkt Shoe Cabinet",
                 "zh": "德瑞特鞋櫃"
             },
             "brand": {
-                "en": "Drett",
+                "en": "Direkt",
                 "zh": "德瑞特"
             },
             "brandKey": {
-                "en": "Drett",
+                "en": "Direkt",
                 "zh": "德瑞特"
             },
             "category": {
@@ -2670,13 +2670,13 @@
             ],
             "cover": "https://example.com/Drett_shoe_cabinet_cover.png",
             "photos": [
-                "fur_45_drett_00001.png",
-                "fur_45_drett_00002.png",
-                "fur_45_drett_00003.png",
-                "fur_45_drett_00004.png",
-                "fur_45_drett_00005.png",
-                "fur_45_drett_00006.png",
-                "fur_45_drett_00007.png"
+                "fur_45_direkt_00001.png",
+                "fur_45_direkt_00002.png",
+                "fur_45_direkt_00003.png",
+                "fur_45_direkt_00004.png",
+                "fur_45_direkt_00005.png",
+                "fur_45_direkt_00006.png",
+                "fur_45_direkt_00007.png"
             ],
             "includes": [
                 "鞋櫃主體",
