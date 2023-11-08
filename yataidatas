@@ -230,11 +230,14 @@
                 "zh": "亞曼達"
             },
             "category": {
-                "en": "Coffee Table",
-                "zh": "咖啡桌"
+                "en": "Table",
+                "zh": "桌子"
             },
             "colors": [
-                "淺木色"
+                {
+                    "name": "淺木色",
+                    "code": "#eeeee"
+                }
             ],
             "materials": [
                 "實木"
@@ -285,11 +288,14 @@
                 "zh": "維克多"
             },
             "category": {
-                "en": "Office Desk",
-                "zh": "辦公桌"
+                "en": "Table",
+                "zh": "桌子"
             },
             "colors": [
-                "黑色"
+                {
+                    "name": "黑色",
+                    "code": "#000000"
+                }
             ],
             "materials": [
                 "金屬",
@@ -343,8 +349,14 @@
                 "zh": "沙發"
             },
             "colors": [
-                "黑色",
-                "白色"
+                {
+                    "name": "黑色",
+                    "code": "#000000"
+                },
+                {
+                    "name": "白色",
+                    "code": "#ffffff"
+                }
             ],
             "materials": [
                 "皮革"
@@ -380,8 +392,8 @@
         {
             "id": 4,
             "name": {
-                "en": "Classic Wooden Bookshelf",
-                "zh": "經典木製書架"
+                "en": "Classic Wooden Sofa",
+                "zh": "經典木製沙發"
             },
             "brand": {
                 "en": "LiHarper",
@@ -392,11 +404,14 @@
                 "zh": "利哈珀"
             },
             "category": {
-                "en": "Bookshelf",
-                "zh": "書架"
+                "en": "Sofa",
+                "zh": "沙發"
             },
             "colors": [
-                "橡木色"
+                {
+                    "name": "橡木色",
+                    "code": "#A0522D"
+                }
             ],
             "materials": [
                 "實木"
@@ -410,12 +425,12 @@
             "price": "$350",
             "discountedPrice": "$300",
             "description": [
-                "這款經典木製書架以高品質實木製成，展現經典氛圍。",
+                "這款經典木製沙發以高品質實木製成，展現經典氛圍。",
                 "提供橡木色選擇，為您的家居帶來自然美感。",
-                "堅固耐用的結構，讓您放心收納書籍和物品。",
+                "堅固耐用的結構，讓您放心使用。",
                 "多層儲物設計，讓您更好地整理物品。"
             ],
-            "cover": "https://example.com/classic_wooden_bookshelf_cover.png",
+            "cover": "https://example.com/classic_wooden_sofa_cover.png",
             "photos": [
                 "fur_4_liharper_00001.png",
                 "fur_4_liharper_00002.png",
@@ -425,7 +440,7 @@
                 "fur_4_liharper_00006.png"
             ],
             "includes": [
-                "書架板",
+                "沙發主體",
                 "支架"
             ],
             "hot": false
@@ -445,11 +460,14 @@
                 "zh": "奇露"
             },
             "category": {
-                "en": "Dining Table",
-                "zh": "餐桌"
+                "en": "Table",
+                "zh": "桌子"
             },
             "colors": [
-                "透明"
+                {
+                    "name": "透明",
+                    "code": "#dad8ff"
+                }
             ],
             "materials": [
                 "玻璃"
@@ -506,7 +524,10 @@
                 "zh": "衣櫃"
             },
             "colors": [
-                "深木色"
+                {
+                    "name": "深木色",
+                    "code": "#8B4513"
+                }
             ],
             "materials": [
                 "木製",
@@ -560,10 +581,13 @@
             },
             "category": {
                 "en": "Shoe Cabinet",
-                "zh": "鞋櫃"
+                "zh": "鞋櫃/架"
             },
             "colors": [
-                "咖啡色"
+                {
+                    "name": "咖啡色",
+                    "code": "#A52A2A"
+                }
             ],
             "materials": [
                 "實木"
@@ -613,11 +637,14 @@
                 "zh": "貝拉奇"
             },
             "category": {
-                "en": "TV Cabinet",
-                "zh": "電視櫃"
+                "en": "Storage",
+                "zh": "收納櫃"
             },
             "colors": [
-                "深木色"
+                {
+                    "name": "深木色",
+                    "code": "#8B4513"
+                }
             ],
             "materials": [
                 "實木",
@@ -673,8 +700,14 @@
                 "zh": "梳妝台"
             },
             "colors": [
-                "白色",
-                "粉紅色"
+                {
+                    "name": "白色",
+                    "code": "#ffffff"
+                },
+                {
+                    "name": "粉紅色",
+                    "code": "#FFC0CB"
+                }
             ],
             "materials": [
                 "實木",
@@ -730,8 +763,14 @@
                 "zh": "電腦桌"
             },
             "colors": [
-                "淺木色",
-                "白色"
+                {
+                    "name": "淺木色",
+                    "code": "#eeeee"
+                },
+                {
+                    "name": "白色",
+                    "code": "#ffffff"
+                }
             ],
             "materials": [
                 "木製",
@@ -779,12 +818,18 @@
                 "zh": "奧藝坊"
             },
             "category": {
-                "en": "Shoe Rack",
-                "zh": "鞋架"
+                "en": "Shoe Cabinet",
+                "zh": "鞋櫃/架"
             },
             "colors": [
-                "黑色",
-                "白色"
+                {
+                    "name": "黑色",
+                    "code": "#000000"
+                },
+                {
+                    "name": "白色",
+                    "code": "#ffffff"
+                }
             ],
             "materials": [
                 "金屬",
@@ -838,7 +883,10 @@
                 "zh": "酒櫃"
             },
             "colors": [
-                "啞黑色"
+                {
+                    "name": "啞黑色",
+                    "code": "#333333"
+                }
             ],
             "materials": [
                 "實木",
@@ -889,11 +937,14 @@
                 "zh": "維克多"
             },
             "category": {
-                "en": "Office Desk",
-                "zh": "辦公桌"
+                "en": "Table",
+                "zh": "桌子"
             },
             "colors": [
-                "黑色"
+                {
+                    "name": "黑色",
+                    "code": "#000000"
+                }
             ],
             "materials": [
                 "木製",
@@ -948,7 +999,10 @@
                 "zh": "床頭櫃"
             },
             "colors": [
-                "白色"
+                {
+                    "name": "白色",
+                    "code": "#ffffff"
+                }
             ],
             "materials": [
                 "實木"
@@ -996,11 +1050,14 @@
                 "zh": "柏那圖"
             },
             "category": {
-                "en": "Coffee Table",
-                "zh": "咖啡桌"
+                "en": "Table",
+                "zh": "桌子"
             },
             "colors": [
-                "淺木色"
+                {
+                    "name": "淺木色",
+                    "code": "#eeeee"
+                }
             ],
             "materials": [
                 "實木"
@@ -1036,8 +1093,8 @@
         {
             "id": 16,
             "name": {
-                "en": "Modern Bookshelf",
-                "zh": "現代書架"
+                "en": "Comfortable Sofa",
+                "zh": "舒適沙發"
             },
             "brand": {
                 "en": "LiHarper",
@@ -1048,41 +1105,46 @@
                 "zh": "利哈珀"
             },
             "category": {
-                "en": "Bookshelf",
-                "zh": "書架"
+                "en": "Sofa",
+                "zh": "沙發"
             },
             "colors": [
-                "深木色"
+                {
+                    "name": "綠松色",
+                    "code": "#30D5C8"
+                }
             ],
             "materials": [
-                "實木",
-                "金屬"
+                "布料",
+                "彈簧",
+                "木頭"
             ],
             "features": [
-                "現代設計",
-                "多層收納",
-                "耐用穩固"
+                "舒適設計",
+                "寬敞座位",
+                "堅固結構"
             ],
-            "size": "長: 120cm, 寬: 30cm, 高: 180cm",
-            "price": "$300",
-            "discountedPrice": "$270",
+            "size": "長: 200cm, 寬: 90cm, 高: 80cm",
+            "price": "$800",
+            "discountedPrice": "$720",
             "description": [
-                "這款現代書架融合了實木和金屬，為您的家居增色。",
-                "深木色設計，營造沉穩氛圍。",
-                "多層收納設計，滿足收納各種物品。",
-                "耐用穩固，為您提供長久的使用體驗。"
+                "這款舒適沙發結合了優質布料、彈簧和堅固木頭，為您提供極佳的休息體驗。",
+                "多種顏色可供選擇，滿足不同家居風格。",
+                "寬敞的座位，讓您可以盡情舒展身體。",
+                "堅固結構，為您提供長久的使用體驗。"
             ],
-            "cover": "https://example.com/modern_bookshelf_cover.png",
+            "cover": "https://example.com/comfortable_sofa_cover.png",
             "photos": [
-                "fur_16_liharper_00001.png",
-                "fur_16_liharper_00002.png",
-                "fur_16_liharper_00003.png",
-                "fur_16_liharper_00004.png",
-                "fur_16_liharper_00005.png"
+                "fur_18_liharper_00001.png",
+                "fur_18_liharper_00002.png",
+                "fur_18_liharper_00003.png",
+                "fur_18_liharper_00004.png",
+                "fur_18_liharper_00005.png"
             ],
             "includes": [
-                "書架主體",
-                "支架"
+                "沙發主體",
+                "坐墊",
+                "靠背墊"
             ],
             "hot": true
         },
@@ -1101,11 +1163,14 @@
                 "zh": "德瑞特"
             },
             "category": {
-                "en": "Dining Table",
-                "zh": "餐桌"
+                "en": "Table",
+                "zh": "桌子"
             },
             "colors": [
-                "黑色",
+                {
+                    "name": "黑色",
+                    "code": "#000000"
+                },
                 "金色"
             ],
             "materials": [
@@ -1160,7 +1225,10 @@
                 "zh": "沙發"
             },
             "colors": [
-                "淺灰色"
+                {
+                    "name": "淺灰色",
+                    "code": "#D3D3D3"
+                }
             ],
             "materials": [
                 "布料",
@@ -1214,8 +1282,14 @@
                 "zh": "衣櫃"
             },
             "colors": [
-                "淺木色",
-                "深木色"
+                {
+                    "name": "淺木色",
+                    "code": "#eeeee"
+                },
+                {
+                    "name": "深木色",
+                    "code": "#8B4513"
+                }
             ],
             "materials": [
                 "實木",
@@ -1268,10 +1342,13 @@
             },
             "category": {
                 "en": "Shoe Cabinet",
-                "zh": "鞋櫃"
+                "zh": "鞋櫃/架"
             },
             "colors": [
-                "白色"
+                {
+                    "name": "白色",
+                    "code": "#ffffff"
+                }
             ],
             "materials": [
                 "實木",
@@ -1324,11 +1401,14 @@
                 "zh": "奇露"
             },
             "category": {
-                "en": "TV Cabinet",
-                "zh": "電視櫃"
+                "en": "Storage",
+                "zh": "收納櫃"
             },
             "colors": [
-                "深木色"
+                {
+                    "name": "深木色",
+                    "code": "#8B4513"
+                }
             ],
             "materials": [
                 "實木",
@@ -1382,7 +1462,10 @@
                 "zh": "電腦桌"
             },
             "colors": [
-                "白色"
+                {
+                    "name": "白色",
+                    "code": "#ffffff"
+                }
             ],
             "materials": [
                 "木製",
@@ -1420,53 +1503,64 @@
         {
             "id": 23,
             "name": {
-                "en": "Versatile Bookcase",
-                "zh": "多功能書架"
+                "en": "Modern Chair",
+                "zh": "現代椅子"
             },
             "brand": {
-                "en": "AoYifang",
-                "zh": "奧藝坊"
+                "en": "LiHarper",
+                "zh": "利哈珀"
             },
             "brandKey": {
-                "en": "AoYifang",
-                "zh": "奧藝坊"
+                "en": "LiHarper",
+                "zh": "利哈珀"
             },
             "category": {
-                "en": "Bookcase",
-                "zh": "書架"
+                "en": "Chair",
+                "zh": "椅子"
             },
             "colors": [
-                "白色"
+                {
+                    "name": "淺灰色",
+                    "code": "#D3D3D3"
+                },
+                {
+                    "name": "深木色",
+                    "code": "#8B4513"
+                },
+                {
+                    "name": "綠色",
+                    "code": "#008000"
+                }
             ],
             "materials": [
-                "木製",
+                "綢布",
                 "金屬"
             ],
             "features": [
-                "多功能設計",
-                "可調節架板",
-                "堅固耐用"
+                "現代設計",
+                "舒適坐感",
+                "耐用穩固"
             ],
-            "size": "長: 100cm, 寬: 30cm, 高: 180cm",
-            "price": "$280",
-            "discountedPrice": "$250",
+            "size": "長: 50cm, 寬: 50cm, 高: 80cm",
+            "price": "$150",
+            "discountedPrice": "$135",
             "description": [
-                "這款多功能書架融合了實木和金屬，為您的家居增色。",
-                "白色設計，簡約大方。",
-                "可調節架板，滿足不同物品的收納需求。",
-                "堅固耐用，為您提供長久的使用體驗。"
+                "這款現代椅子結合了綢布和金屬，為您的家居增色。",
+                "提供舒適的坐感，讓您可以長時間享受休閒時光。",
+                "多種顏色可供選擇，滿足不同喜好。",
+                "耐用穩固，為您提供長久的使用體驗。"
             ],
-            "cover": "https://example.com/versatile_bookcase_cover.png",
+            "cover": "https://example.com/modern_chair_cover.png",
             "photos": [
-                "fur_23_aoyifang_00001.png",
-                "fur_23_aoyifang_00002.png",
-                "fur_23_aoyifang_00003.png",
-                "fur_23_aoyifang_00004.png",
-                "fur_23_aoyifang_00005.png"
+                "fur_16_liharper_00001.png",
+                "fur_16_liharper_00002.png",
+                "fur_16_liharper_00003.png",
+                "fur_16_liharper_00004.png",
+                "fur_16_liharper_00005.png"
             ],
             "includes": [
-                "書架主體",
-                "架板"
+                "椅子主體",
+                "腳架"
             ],
             "hot": true
         },
@@ -1544,7 +1638,10 @@
                 "zh": "酒櫃"
             },
             "colors": [
-                "深木色"
+                {
+                    "name": "深木色",
+                    "code": "#8B4513"
+                }
             ],
             "materials": [
                 "實木"
@@ -1598,7 +1695,10 @@
                 "zh": "梳妝檯"
             },
             "colors": [
-                "白色"
+                {
+                    "name": "白色",
+                    "code": "#ffffff"
+                }
             ],
             "materials": [
                 "實木",
@@ -1652,7 +1752,10 @@
                 "zh": "沙發"
             },
             "colors": [
-                "深灰色"
+                {
+                    "name": "黃色",
+                    "code": "#ffd962"
+                }
             ],
             "materials": [
                 "皮革"
@@ -1711,7 +1814,10 @@
                 "zh": "椅子"
             },
             "colors": [
-                "米白色"
+                {
+                    "name": "紅色",
+                    "code": "#a83336"
+                }
             ],
             "materials": [
                 "布料",
@@ -1762,11 +1868,14 @@
                 "zh": "亞曼達"
             },
             "category": {
-                "en": "Recliner",
-                "zh": "躺椅"
+                "en": "Chair",
+                "zh": "椅子"
             },
             "colors": [
-                "咖啡色"
+                {
+                    "name": "咖啡色",
+                    "code": "#A52A2A"
+                }
             ],
             "materials": [
                 "皮革",
@@ -1818,11 +1927,14 @@
                 "zh": "亞曼達"
             },
             "category": {
-                "en": "Armchair",
-                "zh": "扶手椅"
+                "en": "Chair",
+                "zh": "椅子"
             },
             "colors": [
-                "淺灰色"
+                {
+                    "name": "黃色",
+                    "code": "#ffd962"
+                }
             ],
             "materials": [
                 "織布",
@@ -1878,11 +1990,14 @@
                 "zh": "德瑞特"
             },
             "category": {
-                "en": "Coffee Table",
-                "zh": "咖啡桌"
+                "en": "Table",
+                "zh": "桌子"
             },
             "colors": [
-                "深木色"
+                {
+                    "name": "深木色",
+                    "code": "#8B4513"
+                }
             ],
             "materials": [
                 "實木"
@@ -1931,11 +2046,14 @@
                 "zh": "德瑞特"
             },
             "category": {
-                "en": "Loveseat",
-                "zh": "雙人沙發"
+                "en": "Sofa",
+                "zh": "沙發"
             },
             "colors": [
-                "淺米色"
+                {
+                "name": "淺米色",
+                "code": "#FFF5E0"
+            }
             ],
             "materials": [
                 "織布",
@@ -1986,11 +2104,14 @@
                 "zh": "德瑞特"
             },
             "category": {
-                "en": "Lounge Chair",
-                "zh": "休閒椅"
+                "en": "Chair",
+                "zh": "椅子"
             },
             "colors": [
-                "橄欖綠"
+                {
+                    "name": "橄欖綠",
+                    "code": "#808000"
+                }
             ],
             "materials": [
                 "布料",
@@ -2027,8 +2148,8 @@
         {
             "id": 34,
             "name": {
-                "en": "Vintage Bookshelf",
-                "zh": "復古書架"
+                "en": "Vintage Armchair",
+                "zh": "復古扶手椅"
             },
             "brand": {
                 "en": "Belmont",
@@ -2039,44 +2160,52 @@
                 "zh": "貝爾蒙特"
             },
             "category": {
-                "en": "Bookshelf",
-                "zh": "書架"
+                "en": "Armchair",
+                "zh": "扶手椅"
             },
             "colors": [
-                "古董白"
+                {
+                    "name": "橡木色",
+                    "code": "#A0522D"
+                },
+                {
+                    "name": "古董白",
+                    "code": "#FAEBD7"
+                }
             ],
             "materials": [
-                "實木"
+                "實木",
+                "布料"
             ],
             "features": [
                 "復古設計",
-                "多層收納",
-                "精緻雕花"
+                "舒適坐感",
+                "精美雕刻"
             ],
-            "size": "長: 80cm, 寬: 30cm, 高: 180cm",
-            "price": "$420",
-            "discountedPrice": "$380",
+            "size": "長: 70cm, 寬: 70cm, 高: 90cm",
+            "price": "$480",
+            "discountedPrice": "$432",
             "description": [
-                "這款復古書架以高品質實木打造，為您的書房增色。",
-                "古董白色設計，營造懷舊氛圍。",
-                "多層收納，滿足各式書籍和飾品的收納需求。",
-                "精緻雕花，展現工藝美學。"
+                "這款復古扶手椅以高品質實木和精美布料製成，為您的家居增色。",
+                "可選橡木色或古董白色，滿足不同風格需求。",
+                "舒適的坐感，讓您可以放鬆身心。",
+                "精美雕刻，展現工藝美學。"
             ],
-            "cover": "https://example.com/vintage_bookshelf_cover.png",
+            "cover": "https://example.com/vintage_armchair_cover.png",
             "photos": [
-                "fur_34_belmont_00001.png",
-                "fur_34_belmont_00002.png",
-                "fur_34_belmont_00003.png",
-                "fur_34_belmont_00004.png",
-                "fur_34_belmont_00005.png",
-                "fur_34_belmont_00006.png",
-                "fur_34_belmont_00007.png",
-                "fur_34_belmont_00008.png"
+                "fur_35_belmont_00001.png",
+                "fur_35_belmont_00002.png",
+                "fur_35_belmont_00003.png",
+                "fur_35_belmont_00004.png",
+                "fur_35_belmont_00005.png",
+                "fur_35_belmont_00006.png",
+                "fur_35_belmont_00007.png",
+                "fur_35_belmont_00008.png"
             ],
             "includes": [
-                "書架主體"
+                "扶手椅主體"
             ],
-            "hot": false
+            "hot": true
         },
         {
             "id": 35,
@@ -2097,7 +2226,10 @@
                 "zh": "衣櫃"
             },
             "colors": [
-                "深木色"
+                {
+                    "name": "深木色",
+                    "code": "#8B4513"
+                }
             ],
             "materials": [
                 "實木",
@@ -2133,7 +2265,7 @@
                 "掛衣杆",
                 "隔板"
             ],
-            "hot": false
+            "hot": true
         },
         {
             "id": 36,
@@ -2151,10 +2283,13 @@
             },
             "category": {
                 "en": "Shoe Cabinet",
-                "zh": "鞋櫃"
+                "zh": "鞋櫃/架"
             },
             "colors": [
-                "白色"
+                {
+                    "name": "白色",
+                    "code": "#ffffff"
+                }
             ],
             "materials": [
                 "木製"
@@ -2209,7 +2344,10 @@
                 "zh": "酒櫃"
             },
             "colors": [
-                "深褐色"
+                {
+                    "name": "深褐色",
+                    "code": "#8B4513"
+                }
             ],
             "materials": [
                 "實木",
@@ -2264,7 +2402,10 @@
                 "zh": "梳妝台"
             },
             "colors": [
-                "淺粉色"
+                {
+                    "name": "粉紅色",
+                    "code": "#FFC0CB"
+                }
             ],
             "materials": [
                 "實木",
@@ -2299,7 +2440,7 @@
                 "鏡子",
                 "抽屜"
             ],
-            "hot": false
+            "hot": true
         },
         {
             "id": 39,
@@ -2320,7 +2461,10 @@
                 "zh": "電腦桌"
             },
             "colors": [
-                "黑色"
+                {
+                    "name": "黑色",
+                    "code": "#000000"
+                }
             ],
             "materials": [
                 "金屬",
@@ -2370,10 +2514,13 @@
             },
             "category": {
                 "en": "Shoe Cabinet",
-                "zh": "鞋櫃"
+                "zh": "鞋櫃/架"
             },
             "colors": [
-                "深褐色"
+                {
+                    "name": "深褐色",
+                    "code": "#8B4513"
+                }
             ],
             "materials": [
                 "實木",
@@ -2405,7 +2552,7 @@
                 "鞋櫃主體",
                 "抽屜"
             ],
-            "hot": false
+            "hot": true
         },
         {
             "id": 41,
@@ -2426,7 +2573,10 @@
                 "zh": "衣櫃"
             },
             "colors": [
-                "白色"
+                {
+                    "name": "白色",
+                    "code": "#ffffff"
+                }
             ],
             "materials": [
                 "實木",
@@ -2468,8 +2618,8 @@
         {
             "id": 42,
             "name": {
-                "en": "Evya Bookshelf",
-                "zh": "埃維亞書架"
+                "en": "Evya Dining Chair",
+                "zh": "埃維亞餐椅"
             },
             "brand": {
                 "en": "Evya",
@@ -2480,42 +2630,51 @@
                 "zh": "埃維亞"
             },
             "category": {
-                "en": "Bookshelf",
-                "zh": "書架"
+                "en": "Dining Chair",
+                "zh": "餐椅"
             },
             "colors": [
-                "深褐色"
+                {
+                    "name": "深褐色",
+                    "code": "#8B4513"
+                },
+                {
+                    "name": "米白色",
+                    "code": "#F5F5DC"
+                }
             ],
             "materials": [
-                "實木"
+                "實木",
+                "綢布"
             ],
             "features": [
                 "簡約設計",
-                "多層收納",
+                "舒適坐感",
                 "耐用結構"
             ],
-            "size": "長: 100cm, 寬: 30cm, 高: 150cm",
-            "price": "$300",
-            "discountedPrice": "$260",
+            "size": "長: 45cm, 寬: 45cm, 高: 90cm",
+            "price": "$120",
+            "discountedPrice": "$100",
             "description": [
-                "這款埃維亞書架以高品質實木打造，為您的書房增色。",
-                "深褐色設計，營造高雅氛圍。",
-                "簡約設計，與各種家居風格完美搭配。",
-                "多層收納，滿足各式書籍和飾品的收納需求。"
+                "這款埃維亞餐椅以高品質實木和舒適綢布製成，為您的用餐空間增色。",
+                "提供舒適的坐感，讓您可以享受美食時光。",
+                "深褐色或米白色可供選擇，滿足不同家居風格。",
+                "耐用結構，為您提供長久的使用體驗。"
             ],
-            "cover": "https://example.com/evya_bookshelf_cover.png",
+            "cover": "https://example.com/evya_dining_chair_cover.png",
             "photos": [
-                "fur_42_evya_00001.png",
-                "fur_42_evya_00002.png",
-                "fur_42_evya_00003.png",
-                "fur_42_evya_00004.png",
-                "fur_42_evya_00005.png",
-                "fur_42_evya_00006.png",
-                "fur_42_evya_00007.png",
-                "fur_42_evya_00008.png"
+                "fur_43_evya_00001.png",
+                "fur_43_evya_00002.png",
+                "fur_43_evya_00003.png",
+                "fur_43_evya_00004.png",
+                "fur_43_evya_00005.png",
+                "fur_43_evya_00006.png",
+                "fur_43_evya_00007.png",
+                "fur_43_evya_00008.png"
             ],
             "includes": [
-                "書架主體"
+                "餐椅主體",
+                "坐墊"
             ],
             "hot": false
         },
@@ -2534,11 +2693,14 @@
                 "zh": "奧藝坊"
             },
             "category": {
-                "en": "Coffee Table",
-                "zh": "咖啡桌"
+                "en": "Table",
+                "zh": "桌子"
             },
             "colors": [
-                "淺灰色"
+                {
+                    "name": "淺灰色",
+                    "code": "#D3D3D3"
+                }
             ],
             "materials": [
                 "實木",
@@ -2571,7 +2733,7 @@
                 "桌腿",
                 "桌面"
             ],
-            "hot": false
+            "hot": true
         },
         {
             "id": 44,
@@ -2588,11 +2750,14 @@
                 "zh": "利哈珀"
             },
             "category": {
-                "en": "Coffee Table",
-                "zh": "咖啡桌"
+                "en": "Table",
+                "zh": "桌子"
             },
             "colors": [
-                "淺木色"
+                {
+                    "name": "淺木色",
+                    "code": "#eeeee"
+                }
             ],
             "materials": [
                 "實木",
@@ -2644,10 +2809,13 @@
             },
             "category": {
                 "en": "Shoe Cabinet",
-                "zh": "鞋櫃"
+                "zh": "鞋櫃/架"
             },
             "colors": [
-                "深灰色"
+                {
+                    "name": "深灰色",
+                    "code": "#A9A9A9"
+                }
             ],
             "materials": [
                 "實木",
@@ -2703,7 +2871,19 @@
                 "zh": "沙發"
             },
             "colors": [
-                "米白色"
+                {
+                    "name": "米白色",
+                    "code": "#F5F5DC"
+                },
+                {
+                    "name": "卡奇色",
+                    "code": "#6B4226"
+                },
+                {
+                    "name": "丈青色",
+                    "code": "#2D5C6E"
+                }
+    
             ],
             "materials": [
                 "布料",
@@ -2755,11 +2935,14 @@
                 "zh": "貝爾蒙特"
             },
             "category": {
-                "en": "Coffee Table",
-                "zh": "咖啡桌"
+                "en": "Table",
+                "zh": "桌子"
             },
             "colors": [
-                "深木色"
+                {
+                    "name": "深木色",
+                    "code": "#8B4513"
+                }
             ],
             "materials": [
                 "實木"
@@ -2809,11 +2992,14 @@
                 "zh": "聖托里尼"
             },
             "category": {
-                "en": "TV Cabinet",
-                "zh": "電視櫃"
+                "en": "Storage",
+                "zh": "收納櫃"
             },
             "colors": [
-                "白色"
+                {
+                    "name": "白色",
+                    "code": "#ffffff"
+                }
             ],
             "materials": [
                 "實木",
@@ -2864,11 +3050,14 @@
                 "zh": "奇露"
             },
             "category": {
-                "en": "Office Desk",
-                "zh": "辦公桌"
+                "en": "Table",
+                "zh": "桌子"
             },
             "colors": [
-                "深色"
+                {
+                    "name": "深木色",
+                    "code": "#8B4513"
+                }
             ],
             "materials": [
                 "實木",
@@ -2904,7 +3093,7 @@
                 "桌腿",
                 "桌面"
             ],
-            "hot": false
+            "hot": true
         },
         {
             "id": 50,
@@ -2925,7 +3114,10 @@
                 "zh": "沙發"
             },
             "colors": [
-                "深灰色"
+                {
+                    "name": "深灰色",
+                    "code": "#A9A9A9"
+                }
             ],
             "materials": [
                 "布料",
@@ -2958,15 +3150,13 @@
                 "fur_50_olivia_00008.png",
                 "fur_50_olivia_00009.png",
                 "fur_50_olivia_00010.png"
-              
             ],
             "includes": [
                 "沙發主體",
                 "坐墊"
             ],
-            "hot": false
+            "hot": true
         }
-      
     ],
     "sofas": [
         {
