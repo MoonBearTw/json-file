@@ -689,7 +689,7 @@
             },
             "category": {
                 "en": "VanityTable",
-                "zh": "梳妝台"
+                "zh": "梳妝臺"
             },
             "colors": [
                 {
@@ -1556,8 +1556,8 @@
                 "zh": "埃維亞"
             },
             "category": {
-                "en": "MakeupTable",
-                "zh": "梳妝台"
+                "en": "VanityTable",
+                "zh": "梳妝臺"
             },
             "colors": [
                 "粉色"
@@ -1666,8 +1666,8 @@
                 "zh": "維克多"
             },
             "category": {
-                "en": "MakeupTable",
-                "zh": "梳妝檯"
+                "en": "VanityTable",
+                "zh": "梳妝臺"
             },
             "colors": [
                 {
@@ -2362,7 +2362,7 @@
             },
             "category": {
                 "en": "VanityTable",
-                "zh": "梳妝台"
+                "zh": "梳妝臺"
             },
             "colors": [
                 {
