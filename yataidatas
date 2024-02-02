@@ -2,7 +2,7 @@
     "brands": [
         {
             "brand": "Yamanda",
-            "logo":"yamanda_logo.jpg",
+            "logo": "yamanda_logo.jpg",
             "en": [
                 "The Yamanda brand is born out of an endless passion for home artistry. Established in 1975, Yamanda has always upheld a commitment to outstanding quality, as well as a perfect balance between aesthetics and functionality. Each piece of Yamanda furniture is a uniquely crafted work of art, meticulously constructed with exquisite craftsmanship and high-quality materials, injecting a distinctive charm into everyday life.",
                 "Yamanda's design style blends traditional and modern elements, endowing its furniture with not only classic elegance but also a touch of contemporary dynamism. Whether it's the living room, dining room, or bedroom, Yamanda's furniture adds a touch of sophistication to the space, elevating the experience of living.",
@@ -19,7 +19,7 @@
         },
         {
             "brand": "Direkt",
-            "logo":"direkt_logo.jpg",
+            "logo": "direkt_logo.jpg",
             "en": [
                 "The Direkt brand stems from a profound understanding of nature and culture. Established in 1998, Direkt incorporates unique natural elements into its designs, breathing life into materials like wood, stone, and metal to create a layered and textured living space. Direkt's furniture seems to bring the beauty of nature indoors, adding a vibrant touch to the living environment.",
                 "The brand's design philosophy integrates environmental sustainability, emphasizing the selection of materials and eco-friendly production processes, aiming to create a harmonious coexistence within living spaces. Direkt's furniture not only possesses unique artistic value but also showcases a deep respect and reverence for nature.",
@@ -35,7 +35,7 @@
         },
         {
             "brand": "Osmant",
-            "logo":"osmant_logo.jpg",
+            "logo": "osmant_logo.jpg",
             "en": [
                 "The Osmant brand has its origins in a family of artisans dating back to 1920. Through generations, they have integrated European classical style into furniture design. Each piece of Osmant furniture exudes an aristocratic quality, turning the home into an elegant reflection. The brand holds deep respect for history and art, crafting furniture of timeless value through exquisite craftsmanship and high-quality materials.",
                 "Osmant's design style combines classical and modern elements, allowing the furniture to possess both traditional grandeur and a touch of contemporary sophistication. Whether it's a grand dining table or an exquisite sofa, Osmant's furniture adds a touch of refinement, creating an atmosphere of elegance and nobility."
@@ -47,7 +47,7 @@
         },
         {
             "brand": "Belmont",
-            "logo":"belmont_logo.jpg",
+            "logo": "belmont_logo.jpg",
             "en": [
                 "Established in 1985, Belmont embraces a design philosophy of simplicity and fashion, placing a strong emphasis on the integration of functionality and aesthetics. Belmont's furniture not only meets everyday needs but also brings a sense of lightness and vitality to spaces. With a focus on enhancing quality of life, the brand creates modern home classics through innovative design and high-quality materials.",
                 "Belmont's design style pays meticulous attention to detail, showcasing a spirit of craftsmanship in every curve and joint. Whether it's a classic chair or a stylish coffee table, Belmont's furniture adds a touch of understated luxury and a modern ambiance to spaces."
@@ -59,7 +59,7 @@
         },
         {
             "brand": "Santorini",
-            "logo":"santorini_logo.jpg",
+            "logo": "santorini_logo.jpg",
             "en": [
                 "The Santorini brand originated in 2003, drawing inspiration from Greek aesthetics and infusing the imagery of azure coastlines and sun-drenched landscapes into furniture design. Santorini's furniture brings the beauty of a picturesque holiday destination right into your home. The brand combines the charm of the Mediterranean with contemporary design, creating a poetic and romantic atmosphere within the living space.",
                 "Santorini's design style is characterized by its simplicity and elegance. Through the use of bright colors like white and blue, it creates a sense of spaciousness and luminosity. Each piece of Santorini furniture embodies the distinctive Greek style, allowing you to experience the warmth of the Mediterranean right in your own home."
@@ -71,7 +71,7 @@
         },
         {
             "brand": "LiHarper",
-            "logo":"liharper_logo.jpg",
+            "logo": "liharper_logo.jpg",
             "en": [
                 "Since its establishment in 1962, the Li Harper brand has been characterized by its unique artistic style, transforming paintings into pieces of furniture. Each piece of Li Harper furniture reflects the artist's intentions, turning the home into a vivid canvas. The brand places emphasis on creativity and innovation, injecting a unique artistic atmosphere into the living environment through distinctive artistic elements.",
                 " Li Harper's design style is rich and diverse, filled with the inspiration and creativity of the artist. Whether it's a sofa with an oil-painting style or a dining table with a watercolor motif, Li Harper's furniture carries a strong artistic expression, adding a vibrant touch to the space."
@@ -83,7 +83,7 @@
         },
         {
             "brand": "HaiGeo",
-            "logo":"haigeo_logo.jpg",
+            "logo": "haigeo_logo.jpg",
             "en": [
                 "Established in 2007, the Hai Geo brand takes modern urban living as its design philosophy, emphasizing space utilization and functionality. Hai Geo's furniture combines simplicity and practicality, bringing convenience and comfort to the busy modern lifestyle. With innovative design concepts, the brand creates home furnishings that seamlessly integrate with contemporary living.",
                 "Hai Geo's design style is characterized by its simplicity and efficiency. Through careful space planning and multifunctional design, the furniture becomes an effective assistant in modern living. Whether it's a versatile storage cabinet or a transformable sofa, Hai Geo's furniture showcases the fusion of modern technology and design."
@@ -95,7 +95,7 @@
         },
         {
             "brand": "Allison",
-            "logo":"allison_logo.jpg",
+            "logo": "allison_logo.jpg",
             "en": [
                 "Originating in France in 1989, the Allison brand centers its design around elegance and fashion, infusing French romanticism into its furniture. Each piece of Allison furniture exudes a sense of French charm, creating an elegant atmosphere within the home. The brand places emphasis on details and craftsmanship, crafting home furnishings with artistic quality through exquisite craftsmanship.",
                 "Allison's design style is filled with an atmosphere of elegance and romance. Through carefully designed patterns and decorations, the furniture exhibits an artistic beauty. Whether it's an ornate bedside table or an exquisite vanity, Allison's furniture carries the charm of French romanticism."
@@ -107,7 +107,7 @@
         },
         {
             "brand": "Victor",
-            "logo":"victor_logo.jpg",
+            "logo": "victor_logo.jpg",
             "en": [
                 "Originating in Italy in 1978, the Victor brand is renowned for its luxury and refinement, infusing Italian style into furniture design. Each piece of Victor furniture showcases an extreme attention to detail, demonstrating the legacy of Italian craftsmanship. The brand uses high-quality materials and unique designs to create exquisitely tasteful luxury home furnishings.",
                 "Victor's design style is predominantly characterized by classical elegance. Through meticulously crafted details and elaborate decorations, the furniture exudes a luxurious and splendid style. Whether it's an opulent dining table or an exquisite cabinet, Victor's furniture radiates nobility and elegance."
@@ -119,7 +119,7 @@
         },
         {
             "brand": "Olivia",
-            "logo":"olivia_logo.jpg",
+            "logo": "olivia_logo.jpg",
             "en": [
                 "Founded in 2001, the Olivia brand adopts a design philosophy centered around nature and freshness, incorporating the wonders of nature into home design. Each piece of Olivia furniture exudes vitality and liveliness, bringing a natural atmosphere to the living environment. The brand places emphasis on environmental protection and sustainable development, creating eco-friendly home furnishings based on high-quality materials and green design.",
                 "Olivia's design style is primarily characterized by its natural freshness. Through the use of natural materials and soft colors, the furniture presents a natural beauty. Whether it's a comfortable sofa or a practical storage cabinet, Olivia's furniture brings a touch of greenery to the home."
@@ -131,7 +131,7 @@
         },
         {
             "brand": "Alynette",
-            "logo":"alynette_logo.jpg",
+            "logo": "alynette_logo.jpg",
             "en": [
                 "Founded in 1995, the Alynette brand is characterized by its elegance and nobility, perfectly combining the classic and the fashionable. Each piece of Alynette furniture exudes a sense of nobility and elegance, adding a touch of refinement to the living environment. The brand maintains strict quality control and embraces innovative design concepts, creating outstanding home furnishings that are both practical and artistic.",
                 "Alynette's design style integrates elements of both classic and contemporary styles. Through carefully selected materials and exquisite craftsmanship, the furniture exudes an atmosphere of nobility and elegance. Whether it's an exquisite cabinet or an elegant lamp, Alynette's furniture radiates an unparalleled sense of taste."
@@ -143,7 +143,7 @@
         },
         {
             "brand": "Evya",
-            "logo":"evya_logo.jpg",
+            "logo": "evya_logo.jpg",
             "en": [
                 "Originating in 2005, the Evya brand places modern aesthetics at its design core, perfectly combining simplicity and practicality. Each piece of Evya furniture showcases an extreme attention to detail, infusing elegance and taste into everyday life. The brand emphasizes innovation and functionality, creating home furnishings that blend modern living with artistic beauty through unique design concepts.",
                 "Evya's design style is characterized by its simplicity and efficiency. Through innovative material combinations and multifunctional design, the furniture becomes a sophisticated assistant in modern living. Whether it's a stylish sofa or a practical storage cabinet, Evya's furniture adds a touch of sophistication to the home."
@@ -155,7 +155,7 @@
         },
         {
             "brand": "AoYifang",
-            "logo":"aoyifang_logo.jpg",
+            "logo": "aoyifang_logo.jpg",
             "en": [
                 "Established in 1999, the Ao Yifang brand places art and creativity at its design core, integrating traditional Chinese cultural elements into modern furniture design. Each piece of Ao Yifang furniture reflects a love for art and a reverence for tradition, adding a touch of refinement to the living environment. The brand emphasizes creativity and craftsmanship, creating artworks that blend Eastern and Western influences through unique design concepts.",
                 "Ao Yifang's design style is centered around the fusion of Eastern and Western cultures. Through traditional craftsmanship and modern design techniques, the furniture exudes a unique artistic charm. Whether it's a traditional Chinese-style screen or a modern and contemporary chair, Ao Yifang's furniture radiates a cross-cultural ambiance."
@@ -167,7 +167,7 @@
         },
         {
             "brand": "Bellachi",
-            "logo":"bellachi_logo.jpg",
+            "logo": "bellachi_logo.jpg",
             "en": [
                 "Originating in Italy in 2008, the Bellachi brand is renowned for its luxury and uniqueness, infusing Italian design aesthetics into its furniture. Each piece of Bellachi furniture exudes a sense of nobility and grandeur, adding a touch of opulence to the living environment. The brand emphasizes the utmost selection of materials and embraces unique design concepts, creating luxury home furnishings that are both artistic and practical.",
                 "Bellachi's design style is characterized by its luxury and refinement. Through elaborate decorations and high-quality materials, the furniture exudes an atmosphere of ultimate luxury. Whether it's an ornate sofa or intricately crafted cabinet, Bellachi's furniture radiates nobility and grandeur."
@@ -179,7 +179,7 @@
         },
         {
             "brand": "Keylou",
-            "logo":"keylou_logo.jpg",
+            "logo": "keylou_logo.jpg",
             "en": [
                 "Established in 2004, the Keylou brand is known for its modern art style, integrating the beauty of artworks into furniture design. Each piece of Keylou furniture exudes a unique artistic atmosphere, adding a touch of artistry to the living environment. The brand is driven by a pursuit of creativity and a love for art, creating home furnishings that hold collectible value.",
                 " Keylou's design style is centered around modern art. Through distinctive shapes and creative design techniques, the furniture exhibits a one-of-a-kind artistic quality. Whether it's a unique art-inspired chair or a creatively designed lamp, Keylou's furniture radiates a distinct artistic charm."
@@ -191,7 +191,7 @@
         },
         {
             "brand": "Yanovitch",
-            "logo":"yanovitch_logo.jpg",
+            "logo": "yanovitch_logo.jpg",
             "en": [
                 "Originating in Russia in 1997, the Yanovitch brand is known for its luxury and splendor, infusing the grandeur of the Russian royal court into furniture. Each piece of Yanovitch furniture exudes a regal aura and opulence, adding a touch of grandeur to the living environment. The brand holds deep respect for history and places emphasis on craftsmanship, creating luxury home furnishings with a royal ambiance.",
                 "Yanovitch's design style is characterized by its luxury and intricacy. Through exquisite carving and high-quality materials, the furniture exudes an atmosphere of ultimate splendor. Whether it's an ornate dining table or an ambiance-rich bed, Yanovitch's furniture radiates a royal aura."
@@ -203,7 +203,7 @@
         },
         {
             "brand": "Pernatu",
-            "logo":"pernatu_logo.jpg",
+            "logo": "pernatu_logo.jpg",
             "en": [
                 "The Pernatu brand draws inspiration from Nordic charm and was established in 1992. It embraces simplicity and nature as its design philosophy, infusing the wonders of nature into its furniture. Each piece of Pernatu furniture exudes the fresh atmosphere of Nordic style, bringing tranquility and comfort to the living environment. The brand places emphasis on sustainability, creating home furnishings with a Nordic ambiance based on eco-friendly materials and minimalist design.",
                 "Pernatu's design style is characterized by its natural freshness. Through the use of light colors and natural materials, the furniture presents a style of simple elegance. Whether it's a practical dining table or a cozy bed, Pernatu's furniture brings a touch of greenery to the home."
@@ -689,7 +689,7 @@
             },
             "category": {
                 "en": "VanityTable",
-                "zh": "梳妝臺"
+                "zh": "梳妝台"
             },
             "colors": [
                 {
@@ -1078,8 +1078,8 @@
         {
             "id": 16,
             "name": {
-                "en": "Comfortable Sofa",
-                "zh": "舒適沙發"
+                "en": "Freestanding Storage Cabinet",
+                "zh": "站立式收納櫃"
             },
             "brand": {
                 "en": "LiHarper",
@@ -1090,8 +1090,8 @@
                 "zh": "利哈珀"
             },
             "category": {
-                "en": "Sofa",
-                "zh": "沙發"
+                "en": "Storage Cabinet",
+                "zh": "收納櫃"
             },
             "colors": [
                 {
@@ -1100,24 +1100,23 @@
                 }
             ],
             "materials": [
-                "布料",
-                "彈簧",
-                "木頭"
+                "木頭",
+                "金屬"
             ],
             "features": [
-                "舒適設計",
-                "寬敞座位",
+                "站立式設計",
+                "多層收納",
                 "堅固結構"
             ],
-            "size": "長: 200cm, 寬: 90cm, 高: 80cm",
-            "price": "80000",
+            "size": "高: 180cm, 寬: 120cm, 深: 40cm",
+            "price": "120000",
             "description": [
-                "這款舒適沙發結合了優質布料、彈簧和堅固木頭，為您提供極佳的休息體驗。",
-                "多種顏色可供選擇，滿足不同家居風格。",
-                "寬敞的座位，讓您可以盡情舒展身體。",
-                "堅固結構，為您提供長久的使用體驗。"
+                "這款站立式收納櫃以高品質木頭和金屬製成，提供多層收納空間，是理想的居家收納解決方案。",
+                "綠松色外觀簡約時尚，適合各種家居風格。",
+                "站立式設計節省空間，堅固的結構確保了長時間的使用。",
+                "適用於客廳、臥室等不同空間，為您打造整潔有序的居家環境。"
             ],
-            "cover": "https://example.com/comfortable_sofa_cover.png",
+            "cover": "https://example.com/freestanding_storage_cabinet_cover.png",
             "photos": [
                 "fur_16_liharper_00001.png",
                 "fur_16_liharper_00002.png",
@@ -1126,9 +1125,9 @@
                 "fur_16_liharper_00005.png"
             ],
             "includes": [
-                "沙發主體",
-                "坐墊",
-                "靠背墊"
+                "收納櫃主體",
+                "隔板",
+                "收納箱"
             ],
             "hot": false
         },
@@ -1481,8 +1480,8 @@
         {
             "id": 23,
             "name": {
-                "en": "Elegant Wine Cabinet",
-                "zh": "典雅酒櫃"
+                "en": "Modern Chair",
+                "zh": "現代椅子"
             },
             "brand": {
                 "en": "LiHarper",
@@ -1493,8 +1492,8 @@
                 "zh": "利哈珀"
             },
             "category": {
-                "en": "WineCabinet",
-                "zh": "酒櫃"
+                "en": "Chair",
+                "zh": "椅子"
             },
             "colors": [
                 {
@@ -1556,8 +1555,8 @@
                 "zh": "埃維亞"
             },
             "category": {
-                "en": "VanityTable",
-                "zh": "梳妝臺"
+                "en": "MakeupTable",
+                "zh": "梳妝台"
             },
             "colors": [
                 "粉色"
@@ -1666,8 +1665,8 @@
                 "zh": "維克多"
             },
             "category": {
-                "en": "VanityTable",
-                "zh": "梳妝臺"
+                "en": "MakeupTable",
+                "zh": "梳妝檯"
             },
             "colors": [
                 {
@@ -2020,9 +2019,9 @@
             },
             "colors": [
                 {
-                "name": "淺米色",
-                "code": "#FFF5E0"
-            }
+                    "name": "淺米色",
+                    "code": "#FFF5E0"
+                }
             ],
             "materials": [
                 "織布",
@@ -2362,7 +2361,7 @@
             },
             "category": {
                 "en": "VanityTable",
-                "zh": "梳妝臺"
+                "zh": "梳妝台"
             },
             "colors": [
                 {
@@ -2838,7 +2837,6 @@
                     "name": "丈青色",
                     "code": "#2D5C6E"
                 }
-    
             ],
             "materials": [
                 "布料",
