@@ -1481,8 +1481,8 @@
         {
             "id": 23,
             "name": {
-                "en": "Modern Chair",
-                "zh": "現代椅子"
+                "en": "Elegant Wine Cabinet",
+                "zh": "典雅酒櫃"
             },
             "brand": {
                 "en": "LiHarper",
@@ -1493,8 +1493,8 @@
                 "zh": "利哈珀"
             },
             "category": {
-                "en": "Chair",
-                "zh": "椅子"
+                "en": "WineCabinet",
+                "zh": "酒櫃"
             },
             "colors": [
                 {
