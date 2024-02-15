@@ -2588,8 +2588,8 @@
                 "zh": "埃維亞"
             },
             "category": {
-                "en": "DiningChair",
-                "zh": "餐椅"
+                "en": "Chair",
+                "zh": "椅子"
             },
             "colors": [
                 {
@@ -3512,15 +3512,8 @@
                 "en":"Chair"
             },
             "url": "https://as1.ftcdn.net/v2/jpg/02/44/54/52/1000_F_244545213_47V73jA0tyLnAYJuwD6gUBVhFHfJ89z3.jpg"
-        },
-        {
-            "id": 9,
-            "category":{
-                "zh":"餐椅",
-                "en":"DiningChair"
-            },
-            "url": "https://as2.ftcdn.net/v2/jpg/02/04/11/65/1000_F_204116592_bfsllFguIyb8yvuohmYPgKROOdCekW5C.jpg"
         }
+
     ]
 }
 
