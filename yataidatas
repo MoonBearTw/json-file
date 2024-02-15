@@ -3443,7 +3443,7 @@
     "banner":[
         {
             "id": 1,
-            "categoory":{
+            "category":{
                 "zh":"桌子",
                 "en":"Table"
             },
@@ -3451,7 +3451,7 @@
         },
         {
             "id": 2,
-            "categoory":{
+            "category":{
                 "zh":"沙發",
                 "en":"Sofa"
             },
@@ -3459,7 +3459,7 @@
         },
         {
             "id": 3,
-            "categoory":{
+            "category":{
                 "zh":"衣櫃",
                 "en":"Wardrobe"
             },
@@ -3467,7 +3467,7 @@
         },
         {
             "id": 4,
-            "categoory":{
+            "category":{
                 "zh":"鞋櫃｜鞋架",
                 "en":"ShoeCabinet"
             },
@@ -3475,7 +3475,7 @@
         },
         {
             "id": 5,
-            "categoory":{
+            "category":{
                 "zh":"收納櫃",
                 "en":"StorageCabinet"
             },
@@ -3483,7 +3483,7 @@
         },
         {
             "id": 5,
-            "categoory":{
+            "category":{
                 "zh":"梳妝台",
                 "en":"VanityTable"
             },
@@ -3491,7 +3491,7 @@
         },
         {
             "id": 6,
-            "categoory":{
+            "category":{
                 "zh":"電腦桌",
                 "en":"ComputerDesk"
             },
@@ -3499,7 +3499,7 @@
         },
         {
             "id": 7,
-            "categoory":{
+            "category":{
                 "zh":"酒櫃",
                 "en":"WineCabinet"
             },
@@ -3507,7 +3507,7 @@
         },
         {
             "id": 8,
-            "categoory":{
+            "category":{
                 "zh":"床頭櫃",
                 "en":"BedsideTable"
             },
@@ -3515,7 +3515,7 @@
         },
         {
             "id": 9,
-            "categoory":{
+            "category":{
                 "zh":"椅子",
                 "en":"Chair"
             },
@@ -3523,7 +3523,7 @@
         },
         {
             "id": 10,
-            "categoory":{
+            "category":{
                 "zh":"餐椅",
                 "en":"DiningChair"
             },
@@ -3531,3 +3531,18 @@
         }
     ]
 }
+
+
+                                 
+                                  
+                                 
+                                 
+                                 
+                              
+                              
+                                    
+                                 
+                                    
+                                
+                                  
+                                    
