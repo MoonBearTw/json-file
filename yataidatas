@@ -630,7 +630,7 @@
                 "zh": "貝拉奇"
             },
             "category": {
-                "en": "Storage",
+                "en": "StorageCabinet",
                 "zh": "收納櫃"
             },
             "colors": [
@@ -982,7 +982,7 @@
                 "zh": "利哈珀"
             },
             "category": {
-                "en": "BedsideTable",
+                "en": "StorageCabinet",
                 "zh": "床頭櫃"
             },
             "colors": [
@@ -1090,7 +1090,7 @@
                 "zh": "利哈珀"
             },
             "category": {
-                "en": "Storage Cabinet",
+                "en": "StorageCabinet",
                 "zh": "收納櫃"
             },
             "colors": [
@@ -1380,7 +1380,7 @@
                 "zh": "奇露"
             },
             "category": {
-                "en": "Storage",
+                "en": "StorageCabinet",
                 "zh": "收納櫃"
             },
             "colors": [
@@ -2126,8 +2126,8 @@
                 "zh": "貝爾蒙特"
             },
             "category": {
-                "en": "Armchair",
-                "zh": "扶手椅"
+                "en": "Chair",
+                "zh": "椅子"
             },
             "colors": [
                 {
@@ -2943,7 +2943,7 @@
                 "zh": "聖托里尼"
             },
             "category": {
-                "en": "Storage",
+                "en": "StorageCabinet",
                 "zh": "收納櫃"
             },
             "colors": [
@@ -3438,6 +3438,96 @@
             "id": 9,
             "question": "我可以在實體店面試坐家具嗎？",
             "answer": "是的，您可以前往我們的實體店面試坐家具。請前往我們的官方網站以查找最近的店鋪位置。"
+        }
+    ],
+    "banner":[
+        {
+            "id": 1,
+            "categoory":{
+                "zh":"桌子",
+                "en":"Table"
+            },
+            "url": "https://t4.ftcdn.net/jpg/05/08/17/01/360_F_508170187_4Oonk4IG8u9eyfwSUvTASkT8hl71vRX2.jpg"
+        },
+        {
+            "id": 2,
+            "categoory":{
+                "zh":"沙發",
+                "en":"Sofa"
+            },
+            "url": "https://t4.ftcdn.net/jpg/05/08/17/01/360_F_508170187_4Oonk4IG8u9eyfwSUvTASkT8hl71vRX2.jpg"
+        },
+        {
+            "id": 3,
+            "categoory":{
+                "zh":"衣櫃",
+                "en":"Wardrobe"
+            },
+            "url": "https://t4.ftcdn.net/jpg/05/08/17/01/360_F_508170187_4Oonk4IG8u9eyfwSUvTASkT8hl71vRX2.jpg"
+        },
+        {
+            "id": 4,
+            "categoory":{
+                "zh":"鞋櫃｜鞋架",
+                "en":"ShoeCabinet"
+            },
+            "url": "https://t4.ftcdn.net/jpg/05/08/17/01/360_F_508170187_4Oonk4IG8u9eyfwSUvTASkT8hl71vRX2.jpg"
+        },
+        {
+            "id": 5,
+            "categoory":{
+                "zh":"收納櫃",
+                "en":"StorageCabinet"
+            },
+            "url": "https://t4.ftcdn.net/jpg/05/08/17/01/360_F_508170187_4Oonk4IG8u9eyfwSUvTASkT8hl71vRX2.jpg"
+        },
+        {
+            "id": 5,
+            "categoory":{
+                "zh":"梳妝台",
+                "en":"VanityTable"
+            },
+            "url": "https://t4.ftcdn.net/jpg/05/08/17/01/360_F_508170187_4Oonk4IG8u9eyfwSUvTASkT8hl71vRX2.jpg"
+        },
+        {
+            "id": 6,
+            "categoory":{
+                "zh":"電腦桌",
+                "en":"ComputerDesk"
+            },
+            "url": "https://t4.ftcdn.net/jpg/05/08/17/01/360_F_508170187_4Oonk4IG8u9eyfwSUvTASkT8hl71vRX2.jpg"
+        },
+        {
+            "id": 7,
+            "categoory":{
+                "zh":"酒櫃",
+                "en":"WineCabinet"
+            },
+            "url": "https://t4.ftcdn.net/jpg/05/08/17/01/360_F_508170187_4Oonk4IG8u9eyfwSUvTASkT8hl71vRX2.jpg"
+        },
+        {
+            "id": 8,
+            "categoory":{
+                "zh":"床頭櫃",
+                "en":"BedsideTable"
+            },
+            "url": "https://t4.ftcdn.net/jpg/05/08/17/01/360_F_508170187_4Oonk4IG8u9eyfwSUvTASkT8hl71vRX2.jpg"
+        },
+        {
+            "id": 8,
+            "categoory":{
+                "zh":"椅子",
+                "en":"Chair"
+            },
+            "url": "https://t4.ftcdn.net/jpg/05/08/17/01/360_F_508170187_4Oonk4IG8u9eyfwSUvTASkT8hl71vRX2.jpg"
+        },
+        {
+            "id": 10,
+            "categoory":{
+                "zh":"餐椅",
+                "en":"DiningChair"
+            },
+            "url": "https://t4.ftcdn.net/jpg/05/08/17/01/360_F_508170187_4Oonk4IG8u9eyfwSUvTASkT8hl71vRX2.jpg"
         }
     ]
 }
