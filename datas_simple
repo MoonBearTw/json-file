@@ -1,7 +1,10 @@
 {
     "address": [
         {
-            "taipei": [
+            "region": "taipei",
+            "zh": "台北市",
+            "en": "Taipei",
+            "districts": [
                 {
                     "id": 1,
                     "name": "士林"
@@ -50,8 +53,13 @@
                     "id": 12,
                     "name": "北投"
                 }
-            ],
-            "newtaipei": [
+            ]
+        },
+        {
+            "region": "newtaipei",
+            "zh": "新北市",
+            "en": "New Taipei",
+            "districts": [
                 {
                     "id": 1,
                     "name": "淡水"
