@@ -4,7 +4,7 @@
             "region": "taipei",
             "zh": "台北市",
             "en": "Taipei",
-            "area": [
+            "areas": [
                 {
                     "id": 1,
                     "name": "士林"
@@ -59,7 +59,7 @@
             "region": "newtaipei",
             "zh": "新北市",
             "en": "New Taipei",
-            "area": [
+            "areas": [
                 {
                     "id": 1,
                     "name": "淡水"
